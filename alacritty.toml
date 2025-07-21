@@ -1,5 +1,5 @@
-general.import = ["/home/sangharsha/.config/alacritty/themes/catppuccin/catppuccin-mocha.toml"]
-#general.import = ["/home/sangharsha/.config/alacritty/themes/gruvbox_material_medium_dark.toml"]
+#general.import = ["/home/sangharsha/.config/alacritty/themes/catppuccin/catppuccin-mocha.toml"]
+general.import = ["/home/sangharsha/.config/alacritty/themes/gruvbox_material_medium_dark.toml"]
 general.live_config_reload = true
 
 [window]

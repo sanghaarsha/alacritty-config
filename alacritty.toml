@@ -6,7 +6,7 @@ general.live_config_reload = true
 decorations = "None"
 dimensions = {columns = 100, lines = 27}
 dynamic_padding = true
-opacity = 0.9
+opacity = 1.0
 padding = {x=20, y=20}
 blur = true
 
